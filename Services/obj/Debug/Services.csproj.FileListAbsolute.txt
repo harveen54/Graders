@@ -1,0 +1,6 @@
+G:\New Projects New Life\Graders.co.in\Graders\Services\bin\Debug\Services.dll.config
+G:\New Projects New Life\Graders.co.in\Graders\Services\bin\Debug\Services.dll
+G:\New Projects New Life\Graders.co.in\Graders\Services\bin\Debug\Services.pdb
+G:\New Projects New Life\Graders.co.in\Graders\Services\obj\Debug\Services.dll
+G:\New Projects New Life\Graders.co.in\Graders\Services\obj\Debug\Services.pdb
+G:\New Projects New Life\Graders.co.in\Graders\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
